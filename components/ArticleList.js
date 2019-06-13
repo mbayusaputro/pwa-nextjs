@@ -1,6 +1,5 @@
 import LazyLoad from "react-lazyload";
 import Link from "next/link";
-import Slugify from "slugify";
 
 import Box from "./Box";
 import Excerpt from "./Excerpt";
